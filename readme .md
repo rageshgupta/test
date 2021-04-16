@@ -9,9 +9,7 @@
 # kya github saabit hoga ek badhiya alternative ?
 # definately yes
 # kuch bhi likh lia
-<<<<<<< HEAD
 
-=======
 # let
 
 # chennai
@@ -38,7 +36,6 @@ bad;
 return0;
 
 }
->>>>>>> fa574990c22c96a0cb700e65ab1da96bb1d31bfc
 
 loop2 begins if (){
     print hello 10 times
