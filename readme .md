@@ -12,24 +12,24 @@
 
 # let
 
-# chennai
+
 # me 
 
 # show 
 
 # you
 
-# super
+# punjab
 
 # kings
 
-let the if loop begin if () {
+let the if loop1 begin if () {
 
 nothing comes in b/w 
 github == good;
 
-
-els
+}
+else{
 
 bad;
 
@@ -38,6 +38,7 @@ return0;
 }
 
 loop2 begins if (){
-    print hello 10 times
+    print chess 10 times
     exit
 }
+
