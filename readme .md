@@ -9,4 +9,9 @@
 # kya github saabit hoga ek badhiya alternative ?
 # definately yes
 # kuch bhi likh lia
+loop2 begins if (){
+    print hello 10 times
 
+
+    exit
+}
